@@ -35,7 +35,18 @@
   smartide start
   ```
 
-smartide start 成功使用浏览器打开 http://localhost:8080 即可开玩。
+smartide start 会自动完成以下动作
+
+- 读取代码库中 .ide/.ide.yaml 文件
+- 按以上配置文件拉取所需要的docker容器镜像，本代码库使用的是 smartide-base 镜像，内置了 javascript/node.js 开发环境和 VSCode WebIDE
+- 镜像拉取完成后，会自动用docker启动容器并将本代码库的内容映射到容器内部
+- 然后会自动开启VSCode WebIDE，并运行以下脚本
+    - npm config set registry https://registry.npmmirror.com
+    - npm install
+    - npm start
+- 以上动作玩不为 **自动** 完成，无需人工干预
+
+完成后使用浏览器打开 http://localhost:8080 即可开玩。
 
 游戏运行画面
 
