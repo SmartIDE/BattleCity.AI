@@ -1,4 +1,4 @@
-# SmartIDE BattleCity.AI
+# SmartIDE 坦克大战
 
 儿时的记忆【坦克大战】现在可以运行在你最爱的vscode WebIDE里面了。
 
