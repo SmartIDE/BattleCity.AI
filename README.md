@@ -35,6 +35,8 @@
   smartide start
   ```
 
+smartide start 成功使用浏览器打开 http://localhost:8080 即可开玩。
+
 游戏运行画面
 
 ![坦克大战](tank-game.png)
