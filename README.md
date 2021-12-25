@@ -42,4 +42,7 @@
 
 ## 开源贡献
 
-原项目地址：http://juleswang.github.io/BattleCity.AI/
+原项目地址
+
+- http://juleswang.github.io/BattleCity.AI/
+- https://github.com/JulesWang/BattleCity.AI
