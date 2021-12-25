@@ -44,7 +44,7 @@ smartide start 会自动完成以下动作
     - npm config set registry https://registry.npmmirror.com
     - npm install
     - npm start
-- 以上动作玩不为 **自动** 完成，无需人工干预
+- 以上动作全部 **自动** 完成，无需人工干预
 
 完成后使用浏览器打开 http://localhost:8080 即可开玩。
 
