@@ -4,8 +4,8 @@
 
 本代码库提供在 VSCode webIDE 中运行【坦克大战】的方式
 
-B站视频教程：https://www.bilibili.com/video/BV1QL41157P5
-在线试玩：https://smartide.gitee.io/battle-city-ai/
+- B站视频教程：https://www.bilibili.com/video/BV1QL41157P5
+- 在线试玩：https://smartide.gitee.io/battle-city-ai/
 
 大家如果觉得好，别忘了B站三连+GitHub/Gitee加星哦！
 
